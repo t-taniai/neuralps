@@ -1,0 +1,1 @@
+Please extract DiLiGenT dataset from https://sites.google.com/site/photometricstereodata/

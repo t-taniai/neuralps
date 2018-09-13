@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.pythonPath": "C:\\Users\\Taniai\\Anaconda3\\envs\\chainer34\\python.exe",
+		"terminal.integrated.shell.windows": "C:\\Users\\Taniai\\activate_chainer.bat"
+	}
+}
