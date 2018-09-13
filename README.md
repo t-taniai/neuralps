@@ -1,6 +1,8 @@
 # Neural Inverse Rendering for General Reflectance Photometric Stereo (ICML 2018)
 
-We provide an implementation of the photometric stereo method presented in the following paper. If you find our code useful for your research, please cite our paper.
+<img src="overview.jpg" alt="Overview" title="Overview" width="50%" height="50%">
+
+We provide an implementation of the photometric stereo method presented in the following paper. The code can be used for research purpose only. If you find our code useful for your research, please cite our paper.
 ```
 @inproceedings{Taniai18,
   author    = {Tatsunori Taniai and
@@ -11,7 +13,7 @@ We provide an implementation of the photometric stereo method presented in the f
   year      = {2018},
 }
 ```
-Links [[Paper]](http://proceedings.mlr.press/v80/taniai18a.html)  [[Project]](https://taniai.space/projects/tm18_neuralps/)
+Links [[Paper](http://proceedings.mlr.press/v80/taniai18a.html)]  [[Project](https://taniai.space/projects/tm18_neuralps/)]
 
 ## Running Environments
 - Python 3.5+ 
